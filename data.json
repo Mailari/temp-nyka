@@ -1,0 +1,229 @@
+
+
+[
+    {
+        "id": "1.1",
+        "name": "Nykaa Matte To Last ! Liquid Lipstick",
+        "category_id":1,
+        "price": "349",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/b/4be13ef8904245711023_1.jpg",
+        "description": "Nyka Matte Ink Liquid Lipstick."
+    },
+    {
+        "id": "1.2",
+        "name": "Nykaa Matte To Last - Glam Squad",
+        "category_id":1,
+        "price": "599",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/d/3dce9d86902395472643_1.jpg",
+        "description": "Nyka Matte Ink Liquid Lipstick."
+    },
+    {
+        "id": "1.3",
+        "name": "Nykaa Matte To Last! Waterproof Matte",
+        "category_id":1,
+        "price": "425",
+        "rating": "★★★✩✩",          
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/9/8904330901438_1.jpg",
+        "description": "Nyka Matte Ink Liquid Lipstick.."
+    },
+    {
+        "id": "1.4",
+        "name": "Nykaa Matte To Last! Creamy Matte Lipstick",
+        "category_id":1,
+        "price": "299",
+        "rating": "★★★★★",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/6/26519168902656102799-1.jpg",
+        "description": "Nyka Matte Ink Liquid Lipstick."
+    },
+    {
+        "id": "1.5",
+        "name": "Nykaa Matte To Last! Transfer Lipstick",
+        "category_id":1,
+        "price": "449",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/6/86e54768904245708955_1.jpg",
+        "description": "Nyka Matte Ink Liquid Lipstick."
+    },
+
+    {
+        "id": "2.1",
+        "name": "Nykaa Sealed with a Kiss!",
+        "category_id":2,
+        "price": "799",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/4/44161d424551_H-8901030758942.jpg",
+        "description": "Lakme Forever Matte Liquid Lip Color."
+    },
+    {
+        "id": "2.2",
+        "name": "Nykaa Get Set Matte! Demi Matte",
+        "category_id":2,
+        "price": "349",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/a/0ac71d424859_H-8901030794773.jpg",
+        "description": "Lakme Forever Matte Liquid Lip Color."
+    },
+    {
+        "id": "2.3",
+        "name": "Nykaa Gloss it Up!",
+        "category_id":2,
+        "price": "459",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/0/b0131d423866_H-8901030729829.jpg",
+        "description": "Lakme Forever Matte Liquid Lip Color."
+    },
+    {
+        "id": "2.4",
+        "name": "Nykaa All Day Matte Waterproof",
+        "category_id":2,
+        "price": "849",
+        "rating": "★★★★★",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/d/7dce139LAKME00000469_1.jpg",
+        "description": "Lakme Forever Matte Liquid Lip Color."
+    },
+    {
+        "id": "2.5",
+        "name": "Nykaa Matte to Last! Mini",
+        "category_id":2,
+        "price": "249",
+        "rating": "★★★✩✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/8/c8818dbLAKME00000484_1.jpg",
+        "description": "Lakme Forever Matte Liquid Lip Color."
+    },
+    {
+        "id": "3.1",
+        "name": "Raho Safe Breathable, Washable, Printed Cloth Masks Medium",
+        "category_id":3,
+        "price": "199",
+        "rating": "★★★✩✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/5/0543d788904035422467-1.jpg",
+        "description": "Nykaa Clay It Cool Clay Mask."
+    },
+    {
+        "id": "3.2",
+        "name": "Livinguard Face Mask Ultra (L) - Bombay Blue",
+        "category_id":3,
+        "price": "599",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/c/1ced7cb8904245710521_1.jpg",
+        "description": "Nykaa Clay It Cool Clay Mask."
+    },
+    {
+        "id": "3.3",
+        "name": "Philips Fresh Air Mask, Superior Breathing Comfort, Air Powe",
+        "category_id":3,
+        "price": "489",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/e/4e33710O3XXX00000076_1.jpg",
+        "description": "Nykaa Clay It Cool Clay Mask."
+    },
+    {
+        "id": "3.4",
+        "name": "Savlon Mask - BIS Certified FFP2 S Mask, Ear-loop Model with",
+        "category_id":3,
+        "price": "349",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/f/3f82ffcSKINQ00000013_1.jpg",
+        "description": "Nykaa Clay It Cool Clay Mask."
+    },
+    {
+        "id": "3.5",
+        "name": "Nykaa Naturals Skin Secrets Indian Rituals Sheet Mask",
+        "category_id":3,
+        "price": "349",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/9/a94edca8906060213706_1.jpg",
+        "description": "Nykaa Clay It Cool Clay Mask."
+    },
+    {
+        "id": "4.1",
+        "name": "Aroma Magic Hand Sanitiser",
+        "category_id":4,
+        "price": "349",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/8/78a7c718904089801386_1.jpg",
+        "description": "Dettol Instant Hand Sanitizer."
+    },
+    {
+        "id": "4.2",
+        "name": "Dot & Key Hand Cream : Sanitizer + moisturizer (Lavender & P...",
+        "category_id":4,
+        "price": "349",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/f/bff8e328904035421262-new1.jpg",
+        "description": "Dettol Instant Hand Sanitizer."
+    },
+    {
+        "id": "4.3",
+        "name": "Dettol Instant Hand Sanitizer",
+        "category_id":4,
+        "price": "349",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/9/8901396381501_new_1_.jpg",
+        "description": "Dettol Instant Hand Sanitizer."
+    },
+    {
+        "id": "4.4",
+        "name": "Dot & Key Lavender Peppermint Hand Cream",
+        "category_id":4,
+        "price": "349",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/5/45d7cf28904035425208-1.jpg",
+        "description": "Dettol Instant Hand Sanitizer."
+    },
+    {
+        "id": "4.5",
+        "name": "The Body Shop Lemon Moisturising & Cleansing Hand Gel",
+        "category_id":4,
+        "price": "349",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/c/bc803c6theac00000059_1.jpg",
+        "description": "Dettol Instant Hand Sanitizer."
+    },
+    {
+        "id": "5.1",
+        "name": "Nykaa So Creme! Creamy Matte Lipstick",
+        "category_id":5,
+        "price": "349",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/7/d7afde88904320716783_1.jpg",
+        "description": "SUGAR Smudge Me Not Lip Duo."
+    },
+    {
+        "id": "5.2",
+        "name": "M.A.C Matte Lipstick - Velvet Teddy",
+        "category_id":5,
+        "price": "349",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/5/3/5374bc88904320701833.jpg",
+        "description": "SUGAR Smudge Me Not Lip Duo."
+    },
+    {
+        "id": "5.3",
+        "name": "Maybelline New York Color Sensational Ultimattes Lipstick",
+        "category_id":5,
+        "price": "349",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/0/8055a5aSUGAR00000447_1.jpg",
+        "description": "SUGAR Smudge Me Not Lip Duo."
+    },{
+        "id": "5.4",
+        "name": "Lakme Absolute Matte Ultimate Lip Color with Argan Oil",
+        "category_id":5,
+        "price": "349",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/8/08830c2SUGARVB21_1.jpg",
+        "description": "SUGAR Smudge Me Not Lip Duo."
+    },{
+        "id": "5.5",
+        "name": "Renee Cosmetics FAB5 5 in 1 Lipstick",
+        "category_id":5,
+        "price": "349",
+        "rating": "★★★★✩",
+        "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/3/0366a498904320702274_1.jpg",
+        "description": "SUGAR Smudge Me Not Lip Duo."
+    }
+]
+

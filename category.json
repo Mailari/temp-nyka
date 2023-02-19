@@ -1,0 +1,24 @@
+
+[
+    {
+        "id":1,
+        "category":"Nykaa Cosmetics"
+    },
+    {
+        "id":2,
+        "category":"Nykaa Cosmetics Liquid Lipstick"
+    },
+    {
+        "id":3,
+        "category":"Face Masks"
+    },
+    {
+        "id":4,
+        "category":"Hand sanitiseres"
+    },
+    {
+        "id":5,
+        "category":"Lipstick"
+    }
+   
+]

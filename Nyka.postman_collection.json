@@ -1,0 +1,102 @@
+{
+	"info": {
+		"_postman_id": "8f4a0936-2103-4e09-8f41-4106c8e88ed6",
+		"name": "Nyka",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23889555"
+	},
+	"item": [
+		{
+			"name": "localhost:3000/categories",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"categories1\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/categories",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"categories"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:3000/categories/63f125628079c2117b6485c0",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/categories/63f125628079c2117b6485c0",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"categories",
+						"63f125628079c2117b6485c0"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:3000/products",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"category_id\": \"63f125628079c2117b6485c0\",\n    \"name\": \"product1\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/products",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:3000/products/63f12709b81631cdc8c6dc65",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/products/63f12709b81631cdc8c6dc65",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"products",
+						"63f12709b81631cdc8c6dc65"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
